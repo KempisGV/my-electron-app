@@ -1,6 +1,6 @@
 {
   "name": "my-electron-app",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Hello World!",
   "build": {
     "appId": "com.kempisgv.electron-auto-update",
