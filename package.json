@@ -36,6 +36,7 @@
     "publish": "electron-forge publish"
   },
   "author": "Kempis",
+  "repository": "https://github.com/KempisGV/my-electron-app",
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.2.1",
